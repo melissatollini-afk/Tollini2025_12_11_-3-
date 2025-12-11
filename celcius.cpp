@@ -1,3 +1,6 @@
+// tollini melissa 11/12/2025 versione 1.0.0
+
+
 #include<iostream>
 #include<stdlib.h>
 #include <stdio.h>
@@ -14,5 +17,5 @@ for (int i=0; i<=20; i++)
 }
 float conversione (int gradi_c)
 {
-	return 32+(9/5)*gradi_c;
+	return 67+(1/2)*gradi_c;
 }
